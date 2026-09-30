@@ -1,0 +1,26 @@
+{
+  "repo": "voicemod-pro-complete",
+  "product": "Voicemod Pro Complete",
+  "kind": "audio",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "audio-production",
+  "topics": [
+    "voicemod-pro-complete",
+    "voicemod-desktop",
+    "voicemod-windows",
+    "audio-production",
+    "music-editing",
+    "midi-tools",
+    "mixing-console",
+    "sound-design",
+    "podcast-editing",
+    "desktop-audio",
+    "windows-daw",
+    "instrument-plugins",
+    "mastering-tools"
+  ],
+  "site": "zentool.art"
+}
